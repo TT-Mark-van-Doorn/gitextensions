@@ -1256,7 +1256,7 @@ Please make sure git (Git for Windows or cygwin) is installed or set the correct
         <target />
       </trans-unit>
       <trans-unit id="groupBoxConsoleSettings.Text">
-        <source>Console settings (restart required)</source>
+        <source>Console settings (restart required1)</source>
         <target />
       </trans-unit>
       <trans-unit id="label1.Text">

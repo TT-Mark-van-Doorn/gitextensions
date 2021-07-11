@@ -53,7 +53,7 @@
             this.groupBoxConsoleSettings.Size = new System.Drawing.Size(1653, 95);
             this.groupBoxConsoleSettings.TabIndex = 1;
             this.groupBoxConsoleSettings.TabStop = false;
-            this.groupBoxConsoleSettings.Text = "Console settings (restart required)";
+            this.groupBoxConsoleSettings.Text = "Console settings (restart required1)";
             // 
             // consoleFontChangeButton
             // 
